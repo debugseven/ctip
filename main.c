@@ -33,5 +33,5 @@ int main(int argc, char* argv[]) {
 	float p = percent(&c) * 100;
 	printf("Time in percent is %.2f%%.\n", p);
 	
-	return 0;tgset
+	return 0;
 }
